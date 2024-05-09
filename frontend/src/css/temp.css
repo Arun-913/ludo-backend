@@ -1,0 +1,21 @@
+.ludo-board {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: #bfbfbf; /* Grey */
+    border: 2px solid black;
+  }
+  
+  .player-red .piece { }
+  .player-blue .piece { }
+  .player-green .piece { }
+  .player-yellow .piece { }
+  
+  .piece {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
