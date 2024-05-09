@@ -1,1 +1,6 @@
-frontend
+frontend/
+backend1/node_modules/
+backend1/dist/
+backend1/src/Game.ts
+backend1/src/temp.ts
+backend1/image.png
